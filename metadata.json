@@ -1,0 +1,5 @@
+{
+  "name": "SolV Smart EV Charger Dashboard",
+  "description": "A web dashboard to monitor the real-time status of the SolV smart, solar-powered EV charging solution. It displays data on solar voltage, battery percentage, current, and the overall system state (Idle, Solar Charging, or Grid Charging).",
+  "requestFramePermissions": []
+}
